@@ -8,6 +8,7 @@ import { Router } from '@angular/router';
     <messages></messages>
     <ul>
         <li><a routerLink="">Home</a></li>
+        <li><a routerLink="login">Login</a></li>
         <li><a routerLink="messages">Messages</a></li>
         <li><a routerLink="photos">Photos</a></li>
         <!-- this passes a parameter string -->
